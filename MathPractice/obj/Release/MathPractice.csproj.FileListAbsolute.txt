@@ -1,0 +1,9 @@
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\bin\Release\MathPractice.exe.config
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\bin\Release\MathPractice.exe
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\bin\Release\MathPractice.pdb
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\obj\Release\MathPractice.Form1.resources
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\obj\Release\MathPractice.Properties.Resources.resources
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\obj\Release\MathPractice.Settings.resources
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\obj\Release\MathPractice.csproj.GenerateResource.Cache
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\obj\Release\MathPractice.exe
+F:\VSWorkspace\C#Project\MathPractice\MathPractice\obj\Release\MathPractice.pdb

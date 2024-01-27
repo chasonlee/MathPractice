@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<rules PreLevel="Primary" PreLevelCN="初级" PreLevelInx="5">
+  <node Levels="Beginner" Operator="+-" Accuracy="0" LimitTime="10" MaxDigit="2" Quantity="5" />
+  <node Levels="Primary" Operator="+-*" Accuracy="0" LimitTime="15" MaxDigit="2" Quantity="5" />
+  <node Levels="Medium" Operator="+-*/" Accuracy="1" LimitTime="20" MaxDigit="2" Quantity="10" />
+  <node Levels="Advanced" Operator="+-*/" Accuracy="2" LimitTime="15" MaxDigit="3" Quantity="10" />
+  <node Levels="Master" Operator="+-*/" Accuracy="3" LimitTime="15" MaxDigit="3" Quantity="15" />
+  <node Levels="Custom" Operator="+-*" Accuracy="0" LimitTime="15" MaxDigit="2" Quantity="5" />
+</rules>
